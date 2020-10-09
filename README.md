@@ -1,2 +1,2 @@
 # installing package
-`npm install`
+- [x] `npm install`
