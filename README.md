@@ -1,2 +1,2 @@
-# rest-api
- create a api rest with nodejs
+# installing package
+`npm install`
